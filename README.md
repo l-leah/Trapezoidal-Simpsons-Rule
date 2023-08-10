@@ -8,12 +8,12 @@ Numerical integration using the Trapezoidal Rule approximates the integral of a 
 Numerical integration using Simpson's Rule approximates the integral by dividing the interval into smaller segments, fitting parabolic curves through sets of three adjacent points, and integrating these curves, yielding a more accurate estimation of the integral than simpler methods like the trapezoidal rule.
 
 The Input Instructions for f(x) will be displayed as a guide for the user to input proper function
-that the program can recognize: \n
-Use "^" for exponent (ex.: x^2 instead of x2)
-Use "*" in coefficient on the term (ex:. 2*x instead of 2x)
-Use "e" for euler's number (ex.: e^(x-1) instead of exp(x-1))
-Use proper operation between terms (ex.: sin(x) * cos(x) instead of sin(x) cos(x))
-Enclose the x value with () in every trigonometric function (ex.: cos(x) instead of cos x).
+that the program can recognize: 
+a) Use "^" for exponent (ex.: x^2 instead of x2)
+b) Use "*" in coefficient on the term (ex:. 2*x instead of 2x)
+c) Use "e" for euler's number (ex.: e^(x-1) instead of exp(x-1))
+d) Use proper operation between terms (ex.: sin(x) * cos(x) instead of sin(x) cos(x))
+e) Enclose the x value with () in every trigonometric function (ex.: cos(x) instead of cos x).
 
 1) Input function f(x)
 2) Input the beginning of the interval/s
