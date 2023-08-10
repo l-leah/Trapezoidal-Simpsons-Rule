@@ -9,10 +9,10 @@ Numerical integration using Simpson's Rule approximates the integral by dividing
 
 The Input Instructions for f(x) will be displayed as a guide for the user to input proper function
 that the program can recognize: 
-a) Use "^" for exponent (ex.: x^2 instead of x2)
-b) Use "*" in coefficient on the term (ex:. 2*x instead of 2x)
-c) Use "e" for euler's number (ex.: e^(x-1) instead of exp(x-1))
-d) Use proper operation between terms (ex.: sin(x) * cos(x) instead of sin(x) cos(x))
+a) Use "^" for exponent (ex.: x^2 instead of x2),
+b) Use "*" in coefficient on the term (ex:. 2*x instead of 2x),
+c) Use "e" for euler's number (ex.: e^(x-1) instead of exp(x-1)),
+d) Use proper operation between terms (ex.: sin(x) * cos(x) instead of sin(x) cos(x)),
 e) Enclose the x value with () in every trigonometric function (ex.: cos(x) instead of cos x).
 
 1) Input function f(x)
